@@ -1,5 +1,5 @@
 # YDiagonalView
-The class for creating View with diagonal in bottom side
+The class for creating View with diagonal line in bottom side
 
 Use this:
 ```
